@@ -1,0 +1,29 @@
+Name: Vaelqora
+Type: Astral Entity
+World: Silent Meridian
+Description: A luminous entity recorded beyond the mapped boundary.
+
+Name: Nythervane
+Type: Void Cartographer
+World: Hollow Reach
+Description: It draws maps of places that have not yet formed, and the maps are always correct.
+
+Name: Elyrion
+Type: Resonant Lineage
+World: Pale Basin
+Description: A lineage that communicates only in intervals of silence.
+
+Name: Qelvaris
+Type: Obsidian Archive
+World: Sunken Threshold
+Description: An archive that grows one record each time someone searches for it.
+
+Name: Aevrion
+Type: Dimensional Wanderer
+World: Drifting Expanse
+Description: Seen once in every direction at the same moment.
+
+Name: Zorynth
+Type: Echo Phenomenon
+World: Veiled Spire
+Description: A repeating signal with no source, no origin and no final repetition.
